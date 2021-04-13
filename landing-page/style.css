@@ -1,5 +1,16 @@
 *{
     padding : 0;
     margin:0;
+    
 }
 
+#slider_img{
+    width : 100%;
+}
+
+figcaption{
+    position: absolute;
+    bottom : 60%; 
+    left : 40%;
+    color: #FCFEFF;
+    font-weight: bold;
